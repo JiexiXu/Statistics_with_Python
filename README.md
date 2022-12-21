@@ -1,4 +1,4 @@
-# Statistics_with_Python--Assess the overall score of product evaluation based on sentiment analysis. 
+# Statistics with Python: Assess the overall score of product evaluation based on sentiment analysis. 
 1.Data Pre-processing 
 
 2.Sentiment Analysis  
